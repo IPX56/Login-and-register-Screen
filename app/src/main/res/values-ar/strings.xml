@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مشروع جديد</string>
+    <string name="link2password"><u>هل نسيت كلمة السر؟</u></string>
+    <string name="log_linkedin"><u>الدخول بحساب لينكدان</u></string>
+    <string name="log_fb"><u>الدخول بحساب فيسبوك</u></string>
+    <string name="create_acc"><u>ليس لديك حساب؟</u></string>
+    <string name="selected_item">اختار عنصر</string>
+    <string name="welcome_to">مرحبا بك في</string>
+
+</resources>

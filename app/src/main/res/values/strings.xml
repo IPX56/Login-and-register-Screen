@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">thenewproject</string>
+
+    <string name="link2password"><u>Forgot your password?</u></string>
+    <string name="log_linkedin"><u>Login with Linkedin</u></string>
+    <string name="log_fb"><u>Login up with Facebook</u></string>
+    <string name="create_acc"><u>Don\'t Have an Account?</u></string>
+    <string name="selected_item">Selected Item</string>
+    <string name="welcome_to">Welcome to</string>
+
+
+</resources>
